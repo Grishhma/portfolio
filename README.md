@@ -73,7 +73,7 @@ portfolio/
 ```
 
 ### 🌐 Live Demo
-Check out the live demo here("https://grishmakarkera-portfolio.netlify.app/").
+Check out the live demo [here](https://grishmakarkera-portfolio.netlify.app/).
 
 ### 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
