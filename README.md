@@ -1,31 +1,31 @@
-#Personal Portfolio Website 🌟
+# Personal Portfolio Website 🌟
 
 Welcome to my personal portfolio! This project showcases my skills, projects, and professional journey, all presented in a dynamic and flexible design. Built with modern web technologies and a CMS for seamless content management, this portfolio serves as a great way to stand out from the crowd.
 
 ![image](https://github.com/user-attachments/assets/9650abd3-0231-4cc7-9f28-539f4abb426e)
 
-🚀 Features
+# 🚀 Features
 
-Dynamic Content Management: Built using Sanity.io, allowing easy updates to projects and content.
+## Dynamic Content Management: Built using Sanity.io, allowing easy updates to projects and content.
 
-Responsive Design: Optimized for all devices, ensuring a great user experience across desktops, tablets, and phones.
+## Responsive Design: Optimized for all devices, ensuring a great user experience across desktops, tablets, and phones.
 
-Modern Animations: Added a professional touch using Framer Motion.
+## Modern Animations: Added a professional touch using Framer Motion.
 
-Showcase of Projects: Highlights some of my best work, complete with descriptions, live demos, and source code links.
+## Showcase of Projects: Highlights some of my best work, complete with descriptions, live demos, and source code links.
 
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-Frontend
-React.js: Component-based architecture for building the UI.
-SCSS: Styled using BEM methodology for organized and reusable styles.
-Framer Motion: Smooth animations to enhance the user experience.
+## Frontend
+### React.js: Component-based architecture for building the UI.
+### SCSS: Styled using BEM methodology for organized and reusable styles.
+### Framer Motion: Smooth animations to enhance the user experience.
 
-Backend
-Sanity.io: A headless CMS for managing content dynamically via APIs.
+## Backend
+### Sanity.io: A headless CMS for managing content dynamically via APIs.
 
-Hosting
-Hostinger: Reliable hosting for seamless performance.
+## Hosting
+### Hostinger: Reliable hosting for seamless performance.
 
 
