@@ -19,10 +19,8 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 - **React.js:** Component-based architecture for building the UI.  
 - **SCSS:** Styled using BEM methodology for organized and reusable styles.  
 - **Framer Motion:** Smooth animations to enhance the user experience.  
-
 ### Backend  
 - **Sanity.io:** A headless CMS for managing content dynamically via APIs.  
-
 ### Hosting  
 - **Hostinger:** Reliable hosting for seamless performance.  
 
@@ -45,7 +43,7 @@ npm install
 npm start
 ``` 
 
-### Set Up Sanity
+### 📦 Set Up Sanity
 1. Create a Sanity project by following the [Sanity Getting Started Guide](https://www.sanity.io/docs/getting-started).
 2. Add your project credentials to the `.env` file in the root directory:
 
