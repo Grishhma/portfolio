@@ -14,6 +14,7 @@ Modern Animations: Added a professional touch using Framer Motion.
 
 Showcase of Projects: Highlights some of my best work, complete with descriptions, live demos, and source code links.
 
+
 🛠️ Tech Stack
 
 Frontend
