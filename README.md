@@ -4,7 +4,6 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 
 ![Portfolio Preview](https://github.com/user-attachments/assets/9650abd3-0231-4cc7-9f28-539f4abb426e)  
 
----
 
 ## 🚀 Features  
 
@@ -13,7 +12,6 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 - **Modern Animations:** Added a professional touch using Framer Motion.  
 - **Showcase of Projects:** Highlights some of my best work, complete with descriptions, live demos, and source code links.  
 
----
 
 ## 🛠️ Tech Stack  
 
@@ -28,7 +26,6 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 ### Hosting  
 - **Hostinger:** Reliable hosting for seamless performance.  
 
----
 
 ## 🚀 Installation  
 
@@ -57,7 +54,7 @@ REACT_APP_SANITY_PROJECT_ID=your_project_id
 REACT_APP_SANITY_DATASET=production
 ```
 
-## 🔧 Build for Production
+### 🔧 Build for Production
 ```bash
 npm run build
 ```
