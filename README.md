@@ -1,5 +1,7 @@
 Personal Portfolio Website 🌟
+
 Welcome to my personal portfolio! This project showcases my skills, projects, and professional journey, all presented in a dynamic and flexible design. Built with modern web technologies and a CMS for seamless content management, this portfolio serves as a great way to stand out from the crowd.
+
 ![image](https://github.com/user-attachments/assets/9650abd3-0231-4cc7-9f28-539f4abb426e)
 
 🚀 Features
