@@ -6,13 +6,13 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 
 # 🚀 Features
 
-## Dynamic Content Management: Built using Sanity.io, allowing easy updates to projects and content.
+### Dynamic Content Management: Built using Sanity.io, allowing easy updates to projects and content.
 
-## Responsive Design: Optimized for all devices, ensuring a great user experience across desktops, tablets, and phones.
+### Responsive Design: Optimized for all devices, ensuring a great user experience across desktops, tablets, and phones.
 
-## Modern Animations: Added a professional touch using Framer Motion.
+### Modern Animations: Added a professional touch using Framer Motion.
 
-## Showcase of Projects: Highlights some of my best work, complete with descriptions, live demos, and source code links.
+### Showcase of Projects: Highlights some of my best work, complete with descriptions, live demos, and source code links.
 
 
 # 🛠️ Tech Stack
