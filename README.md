@@ -73,10 +73,10 @@ portfolio/
 ```
 
 ### 🌐 Live Demo
-Check out the live demo here.
+Check out the live demo here("https://grishmakarkera-portfolio.netlify.app/").
 
 ### 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
 ### 📧 Contact
-For questions or feedback, reach out to me at [your-email@example.com].
+For questions or feedback, reach out to me at [grishmakarkera2525@gmail.com].
