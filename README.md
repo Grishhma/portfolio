@@ -59,7 +59,6 @@ npm run build
 
 ### 📂 Folder Structure
 ``` plaintext
-Copy code
 portfolio/  
 ├── public/  
 ├── src/  
