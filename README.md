@@ -34,7 +34,7 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 
 To set up the project locally, follow these steps:
 
-
+```bash
 # Clone the repository
 git clone https://github.com/your-username/portfolio.git
 
@@ -46,24 +46,24 @@ npm install
 
 # Start the development server
 npm start
+``` 
 
----
-
-## Set Up Sanity
+### Set Up Sanity
 1. Create a Sanity project by following the [Sanity Getting Started Guide](https://www.sanity.io/docs/getting-started).
 2. Add your project credentials to the `.env` file in the root directory:
 
 ```bash
 REACT_APP_SANITY_PROJECT_ID=your_project_id
 REACT_APP_SANITY_DATASET=production
+```
 
-Build for Production
-bash
-Copy code
+## 🔧 Build for Production
+```bash
 npm run build
+```
 
-📂 Folder Structure
-plaintext
+### 📂 Folder Structure
+``` plaintext
 Copy code
 portfolio/  
 ├── public/  
@@ -75,12 +75,13 @@ portfolio/
 │   └── App.js  
 ├── .env  
 └── package.json
+```
 
-🌐 Live Demo
+### 🌐 Live Demo
 Check out the live demo here.
 
-🤝 Contributing
+### 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
-📧 Contact
+### 📧 Contact
 For questions or feedback, reach out to me at [your-email@example.com].
