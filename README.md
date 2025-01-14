@@ -28,4 +28,26 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 ## Hosting
 ### Hostinger: Reliable hosting for seamless performance.
 
+## ✨ How to Use
+Clone the Repository
+
+bash
+git clone https://github.com/your-username/portfolio.git
+cd portfolio
+Install Dependencies
+
+bash
+npm install
+Set Up Sanity
+Follow Sanity's Getting Started Guide to configure the CMS.
+
+Start the Development Server
+
+bash
+npm start
+Build for Production
+
+bash
+npm run build
+
 
