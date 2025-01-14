@@ -47,6 +47,8 @@ npm install
 # Start the development server
 npm start
 
+---
+
 Set Up Sanity
 Create a Sanity project by following the Sanity Getting Started Guide.
 Add your project credentials to the .env file in the root directory:
